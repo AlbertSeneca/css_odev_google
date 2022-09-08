@@ -1,0 +1,49 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+
+.article {
+    background-color: #EEEEEE;
+    display: block;
+    text-align: -webkit-center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
+.special {
+    background-color: #7EE4DA;
+    text-align: -webkit-center;
+
+}
+
+.special2 {
+    background-color: #70CCC2;
+    text-align: -webkit-center;
+}
+
+.special3 {
+    background-color: #62B3AA;
+    text-align: -webkit-center;
+}
+
+.mama {
+    margin: 2px;
+    padding: 0.5px 190px 0px 190px;
+}
